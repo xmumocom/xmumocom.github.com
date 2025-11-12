@@ -1,20 +1,23 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+厦门大学软件工程系 教授，泛在智能与人机交互研发中心副主任。
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 邮箱  
+<code>laiyx@xmu.edu.cn</code>  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+#### 教育背景  
+2004年9月- 2009年6月 博士 中国人民大学 计算机系  计算机应用技术（硕博连读） 
+ 
+   -	优秀毕业生，获2010年度 中国人民大学 优秀博士论文
 
-#### Research Interests  
-XX, XX, XX, XX.
+2000年9月- 2004年7月 本科 中国人民大学 经济信息管理系      
+
+1997年9月- 2000年7月 高中  龙岩市第一中学    
+    
+
+#### 研究领域  
+数据管理、人工智能应用技术：包括数据分析与管理、机器视觉、智能交通、车载网络、深度学习等；
+
+数字经济、智慧治理相关技术：数据要素、企业数字化转型、大模型应用、区块链技术应用等。
