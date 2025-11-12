@@ -1,42 +1,81 @@
 1.Yongxuan Lai, Songyao He, Zhijie Lin, Fan Yang, Qifeng Zhou, Xiaofang Zhou, An Adaptive Robust Semi-supervised Clustering Framework Using Weighted Consensus of Random k-Means Ensemble, in IEEE Transactions on Knowledge and Data Engineering. Volume: 33, Issue: 5, May 2021  CCF Rank A,  Top期刊
+
 2.Yongxuan Lai*, Fan Yang, Ge Meng, Wei Lu, Data-driven Flexible Vehicle Scheduling and Route Optimization, in IEEE Transactions on Intelligent Transportation Systems, 23.12: 23099-23113, 2023  CCF Rank B, JCR 一区, Top期刊
+
 3.Yongxuan Lai*, Yifan Xu, Duojian Mai, Yi Fan, Fan Yang, Optimized Large-Scale Road Sensing Through Crowdsourced Vehicles, in IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2022.3147211, 2022  CCF Rank B, JCR 一区, Top期刊
+
 4.Yongxuan Lai*, Shipeng Yang, Anshu Xiong, Fan Yang, Lei Li, Xiaofang Zhou. Utility-based Matching of Vehicles and Hybrid Requests on Rider Demand Responsive Systems, in IEEE Transactions on Intelligent Transportation Systems, Volume: 23, Issue: 2, 2022, 1058 - 1072 CCF Rank B, JCR 一区, Top期刊
+
 5.Yongxuan Lai*, Zheng Lv, Kuan-Ching Li, Minghong Liao: Urban Traffic Coulomb's Law: A New Approach for Taxi Route Recommendation, in IEEE Transactions on Intelligent Transportation Systems, Volume: 20 , Issue: 8 , Aug. 2019 Page(s): 3024 - 3037  CCF Rank B, JCR 二区,  Top期刊
+
 6.Linbo Liao, Yongxuan Lai*, Fan Yang, Wenhua Zeng. Online Computation Offloading with Double Reinforcement Learning Algorithm in Mobile Edge Computing, in Journal of Parallel and Distributed Computing, 171, pp.28-39, 2023  CCF Rank B, JCR 二区
+
 7.Yongxuan Lai, Yang Fan, Lu Wei, Wang Tian. A Bus Arrival Time Prediction Algorithm based on Spatio-temporal Correlation Attribute Model. Journal of Software《软件学报》. 2020. (in Chinese)  CCF Rank A 
+
 8.Jianwei Chen, Fan Yang*, Yongxuan Lai*, A Self-Distillation Approach via Entropy Transfer for Scene Text Detection, ACTA Automatica Sinica,《自动化学报》, pp.1-14, 2022. (in Chinese)  CCF Rank A
+
 9.Yi Fan, Yongxuan Lai*, Chengqian Li, Nan Li, Zongjie Ma, Jun Zhou, Longin Jan Latecki, and Kaile Su: Eﬃcient Local Search for Minimum Dominating Sets in Large Graphs, 24th International Conference on Database Systems for Advanced Applications (DASFAA), 22-25 April 2019 Chiang Mai, Thailand. CCF Rank B 
+
 10.Ziying Pan, Kun Wang, Gang Li*, Feihong He, Yongxuan Lai*, FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes, accepted by Applied Intelligence, 2024.  JCR 二区, CCF Rank C
+
 11.Yongxuan Lai, Lu Zhang, Fan Yang, Lv Zheng, Tian Wang, Kuan-Ching Li: CASQ: Adaptive and Cloud-assisted Query Processing in Vehicular Sensor Networks, Future Generation Computer Systems, Volume 94, 2019, Pages 237-249  JCR 二区
+
 12.Yongxuan Lai, Hailin Lin, Fan Yang, Tian Wang: Efficient Data Request Answering in Vehicular Ad-hoc Networks Based on Fog Nodes and Filters, in Future Generation Computer Systems, Volume 93, April 2019, Pages 130-142. JCR 二区 
 13.Ziying Pan, Yongxuan Lai*, Yi Fan, Yiling Huang, Liang Song, and Fan Yang, Temporal Coverage Optimization for Epoch-based Vehicular Crowdsensing Recruitment. International Conference on Parallel and Distributed Systems (ICPADS), Dec. Belgrade, Serbia. 2024.  CCF Rank C
 14.Gong Tao, Jian Zihao, Wu Honghao, Lai Yongxuan*, Song Liang, et al. MASR: Efficient Multi-Attention Network For Single Image Super-Resolution. International Conference on Neural Information Processing. Singapore: Springer Nature Singapore, 2024.  CCF Rank C
+
 15.Jining Chen, Linbo Liao, Yongxuan Lai*, Liang Song, Fan Yang . A Multi-Agent Service Migration Algorithm for Mobile Edge Computing with Diversified Services. In: Zhang, W., Tung, A., Zheng, Z., Yang, Z., Wang, X., Guo, H. (eds) Web and Big Data. APWeb-WAIM 2024. Lecture Notes in Computer Science, vol 14964. Springer, Singapore. 2024.  CCF Rank C
+
 16.Yongxuan Lai, Yifan Xu, Fan Yang, Wei Lu, Quan Yu, Privacy-aware Query Processing in Vehicular Ad-hoc Networks, Ad Hoc Networks, Volume 91, August 2019. CCF Rank C, JCR 三区, IF 3.151
+
 17.Yongxuan Lai, Ziyu Lin: Priority-Based Query Forwarding and Processing Algorithm in Opportunistic Wireless Sensor Network. Journal of Communications [J]《通信学报》. (in Chinese), 2014(3):85-93.  CCF Rank B
+
 18.Yongxuan Lai, Fan Yang, Lu Zhang and Ziyu Lin: Distributed Public Vehicle System Based on Fog Nodes and Vehicular Sensing, in IEEE Access, vol. 6, pp. 22011-22024, 2018. JCR 二区
+
 19.Yongxuan Lai, Jinshan Xie, Ziyu Lin, Tian Wang, Minghong Liao: Adaptive Data Gathering in Mobile Sensor Networks Using Speedy Mobile Elements. Sensors 09/2015; 15(9):23218-23248. DOI:10.3390/s150923218  JCR 三区
+
 20.Yongxuan Lai, Fan Yang, Jinsong Su, Qifeng Zhou, Tian Wang, Lu Zhang, Yifan Xu. Fog-Based Two-Phase Event Monitoring and Data Gathering in Vehicular Sensor Networks , 2018, Sensors 18, no. 1: 82. JCR 三区
+
 21.Yongxuan Lai, Xing Gao, Minghong Liao, Ziyu Lin, Haiying Zhang: Data gathering and offloading in delay tolerant mobile networks. Wireless Networks, Volume 22 Issue 3, April 2016 Pages 959-973 SCI, CCF Rank C, JCR 四区
+
 22.Yongxuan Lai, Zhengkun Chen, Weicong Wu, Tianli Ma: Multiple-resolution content sharing in mobile opportunistic networks. Wireless Communications and Mobile Computing. Volume15, Issue16,November 2015,Pages 1991-2003  CCF Rank C, JCR 四区
+
 23.Fan Yang*, Jian Zhang, Wanyi Chen, Yongxuan Lai*, Ying Wang and Quan Zou. DeepMPM: a Mortality Risk Prediction Model using Longitudinal EHR Data. BMC Bioinformatics, 23/423 (2022).  JCR 四区
+
 24.Jining Chen, Linbo Liao, Yongxuan Lai*, Liang Song, and Fan Yang, A Multi-agent Service Migration Algorithm for Mobile Edge Computing with Diversified Services, the 8th APWeb-WAIM Joint International Conference on Web and Big Data,2024  CCF Rank C
+
 25.Peiying Zeng, Liying Jiang, Yongxuan Lai*, and Fan Yang, Traffic Demand Prediction Based on Multi-dimensional Graph Convolutional Network, in IEEE International Conference on Big Data, 2023  CCF Rank C
+
 26.Ziying Pan, Yongxuan Lai*, Yi Fan, Yiling Huang, Liang Song, and Fan Yang, Temporal Coverage Optimization for Epoch-based Vehicular Crowdsensing Recruitment. International Conference on Parallel and Distributed Systems (ICPADS), Dec. 10-14, 2024, Belgrade, Serbia. CCF Rank C 
+
 27.Honghao Wu, Chao Wang, Zihao Jian, Yongxuan Lai*, Liang Song and Fan Yang, Nearest Memory Augmented Feature Reconstruction for Unified Anomaly Detection, in the 30th International Conference on Neural Information Processing, ICONIP 2023. CCF Rank C
+
 28.Huibin Cao, Yongxuan Lai*, Quan Chen, and Fan Yang. A Semi-supervised Defect Detection Method based on Image Inpainting. The Pacific Rim International Conference on Artificial Intelligence (PRICAI), November 8-12, 2021, (Virtual) Hanoi, Vietnam. CCF Rank C
+
 29.Liying Jiang, Yongxuan Lai*, Quan Chen, Wenhua Zeng, Fan Yang, and Qisheng Liao. Dynamic Transit Flow Graph Prediction in Spatial-Temporal Network. 22nd International Conference on Web Information Systems Engineering (WISE 2021), 26-29 Oct 2021, Melbourne, Australia. CCF Rank C 
+
 30.Liying Jiang, Yongxuan Lai*, Quan Chen, Wenhua Zeng, Fan Yang,Yi Fan. Shortest Path Distance Prediction Based on CatBoost. In International Conference on Web Information Systems and Applications pp. 133-143. Sep 2021, Springer, Cham. CCF Rank C
+
 31.Kaixin Zhang, Yongxuan Lai*, Liying Jiang, and Fan Yang. Bus Travel-time Prediction Based on Deep Spatio-Temporal Model. 21st International Conference on Web Information Systems Engineering (WISE 2020), 20-24 Oct 2020, Amsterdam and Leiden, Netherlands. accepted. CCF Rank C
+
 32.Yongxuan Lai, Shipeng Yang, Anshu Xiong, and Fan Yang. Seamless Incorporation of Appointment-based Requests on Taxi-Rider Match Scheduling. APWeb-WAIM Joint Conference on Web and Big Data, August 12-14, 2020, Tianjin, China. (Accept Ratio: 26.25%). CCF Rank C
+
 33.Yongxuan Lai, Kaixin Zhang, Junqiang Lin, Fan Yang and Yi Fan. Taxi Demand Prediction with LSTM-based Combination Model. 17th IEEE International Symposium on Parallel and Distributed Processing with Applications. Xiamen, China , 2019 CCF Rank C
+
 34.Yongxuan Lai, Xu Yang, Qi Cao, Huibin Cao, Tian Wang, Fan Yang, A Bus Running Length Prediction Method Based on Gradient Boosting. Bigdata Research 《大数据研究》, 5(5), 0, pp. 58-78 (in Chinese), 2019  CCF Rank C
+
 35.Yongxuan Lai, Hailin Lin, Xing Gao, Fan Yang, Shaoyi Yin: Request Answering in Vehicular Ad-hoc Networks based on Adaptive Filters, the 15th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2018). CCF Rank C
+
 36.Zhijie Lin, Fan Yang, Yongxuan Lai*, Xing Gao, Tian Wang: A Scalable Approach of Co-association Cluster Ensemble using Representative Points. 32nd Youth Academic Annual Conference of Chinese Association of Automation (YAC), Hefei, 2017, pp. 1194-1199.
+
 37.Zheng Lv, Yongxuan Lai*, Kuan-Ching Li,Minghong Liao and Xing Gao: Taxi Route Recommendation Based on Urban Traffic Coulomb's Law, the 18th International Conference on Web Information Systems Engineering (WISE), 2017 CCF Rank C
+
 38.Yongxuan Lai, Tian Wang, Fan Yang and Lu Zhang: Data Gathering Framework based on Fog Computing Paradigm in Vehicular Networks, International Workshop on Spatio-temporal Data Management and Analytics (SDMA’2017), in conjunction with APWeb 2017
+
 39.Yongxuan Lai, Xing Gao, Tian Wang, Ziyu Lin: Efficient Iceberg Join Processing in Wireless Sensor Networks. International Journal of Embedded Systems 9(4): 365-378 (2017)
+
 40.Yongxuan Lai, Guiling Li. PBQ: A Priority-Based Query Processing Algorithm in Opportunistic Wireless Sensor Network[J]. Journal of Applied Science and Engineering, 2014, 17(2): 203-213. 
+
 41. 赖永炫，企业数字化转型的难点和对策，第六届科技创新促进经济发展论坛,2023
-42.	赖永炫，加强产学研深度融合,推进民营企业科技创新，第四届科技创新促进经济发展论坛,2021
+    
+43.	赖永炫，加强产学研深度融合,推进民营企业科技创新，第四届科技创新促进经济发展论坛,2021
